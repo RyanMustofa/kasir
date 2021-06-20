@@ -1,0 +1,13 @@
+{
+  "name": "admin-materialdesign",
+  "version": "1.0.4",
+  "description": "aplikasi kurir",
+  "main": "js/admin.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com/RyanMustofa"
+  },
+  "author": "ryan mustofa",
+  "license": "MIT"
+}
